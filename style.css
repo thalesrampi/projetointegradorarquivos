@@ -1,0 +1,51 @@
+.btn1{
+    position: absolute;
+    width: 278px;
+    height: 94px;
+    left: 789px;
+    top: 356px;
+}
+.btn2{
+    position: absolute;
+    width: 278px;
+    height: 94px;
+    left: 789px;
+    top: 469px;
+}
+.btn3{
+    position: absolute;
+    width: 278px;
+    height: 94px;
+    left: 1086px;
+    top: 356px;
+}
+.btn4{
+    position: absolute;
+    width: 278px;
+    height: 94px;
+    left: 1086px;
+    top: 469px;
+}
+.h3{
+    position: absolute;
+    width: 377px;
+    height: 32px;
+    left: 925px;
+    top: 208px;
+    color: #3059A8;
+}
+.h4{
+    position: absolute;
+    width: 424px;
+    height: 138px;
+    left: 855px;
+    top: 708px;
+    color: #000000;
+}
+.img{
+    position: absolute;
+    width: 645px;
+    height: 916px;
+    left: 57px;
+    top: 45px;
+}
