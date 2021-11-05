@@ -42,10 +42,32 @@
     top: 708px;
     color: #000000;
 }
+.h5{
+    position: absolute;
+    width: 177px;
+    height: 29px;
+    left: 600px;
+    top: 100px;
+    color: #3059A8
+}
 .img{
     position: absolute;
     width: 645px;
     height: 916px;
     left: 57px;
     top: 45px;
+}
+.img2{
+    position: absolute;
+    width: 176px;
+    height: 172px;
+    left: 1400px;
+    top: 71px;
+}
+.img3{
+    position: absolute;
+    width: 1400px;
+    height: 158px;
+    left: 180px;
+    top: 717px;
 }
