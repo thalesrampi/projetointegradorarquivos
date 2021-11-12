@@ -26,6 +26,16 @@
     left: 1086px;
     top: 469px;
 }
+.btn btn-primary{
+    position: absolute;
+    left: 900px;
+    top: 469px;
+}
+.btn6{
+    position: absolute;
+    left: 600px;
+    top: 469px;
+}
 .h3{
     position: absolute;
     width: 377px;
@@ -50,6 +60,14 @@
     top: 100px;
     color: #3059A8
 }
+.h6{
+    position: absolute;
+    width: 177px;
+    height: 29px;
+    left: 700px;
+    top: 100px;
+    color: #3059A8
+}
 .img{
     position: absolute;
     width: 645px;
@@ -70,4 +88,11 @@
     height: 158px;
     left: 180px;
     top: 717px;
+}
+fieldset {
+    border: 0;
+}
+.form-group {
+    float: left;
+    margin-right: 1em;
 }
